@@ -16,5 +16,7 @@ The primary goal of this project was to evaluate and compare the predictive accu
 * pandas
 * NumPy
 * Matplotlib
+## Structure
+The Jupyter Notebook provides a step-by-step breakdown of the entire workflow (in German!), from data preprocessing to model evaluation, and includes code annotations for clarity.
 
 Feel free to explore the code!
