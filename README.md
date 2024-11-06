@@ -1,4 +1,4 @@
-# Predictive Analysis of Diabetes Using Random Forest and Gradient Boosted Trees
+# "Comparative study of the predictive quality of random forest and gradient boosted tree models in the prediction of diabetes disease"
 This repository contains the code I developed for my Bachelor's thesis, where I conducted a comparative study of Random Forest and Gradient Boosted Tree models in predicting diabetes. I've written this thesis at the Chair of Statistics and Data Science at the 
 University of Augsburg and received a grade of <b>2.0</b>. The dataset I used was from [kaggle.com](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database). The purpose of uploading this project is to showcase my skills in data science and machine learning using Python.
 
